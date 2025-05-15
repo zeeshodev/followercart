@@ -17,15 +17,15 @@ function App() {
 
   return (
     <>
-    {/* <Navbar /> */}
-    {/* <Hero/>
+    <Navbar />
+    <Hero/>
     <Wchoose />
     <StepSection />
 <ContentMainCard />
     <MainCardHero />
 <InstaMain />
 <FacebookMain />
-<StatisticMain /> */}
+<StatisticMain />
       <Dashboard />
     </>
   )
